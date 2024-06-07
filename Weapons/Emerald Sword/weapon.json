@@ -8,7 +8,7 @@
     "MinimumDamage": 35,
     "MaximumDamage": 50,
     "Knockback": 1,
-    "Speed": 5,
+    "Speed": 10,
     "Accuracy": 0,
     "Defense": 0,
     "CritChance": 0.02,
