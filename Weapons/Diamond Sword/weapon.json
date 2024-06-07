@@ -1,0 +1,19 @@
+{
+  "Name": "Diamond Sword",
+  "Description": "A sword cut from a huge diamond, it provides protection while dealing massive damage due to how hard it is.",
+  "Type": "Sword",
+  "PurchasePrice": 75000,
+  "PurchaseFrom": "Marlon",
+  "CanPurchase": true,
+  "MinimumDamage": 60,
+  "MaximumDamage": 90,
+  "Knockback": 1,
+  "Speed": 0,
+  "Accuracy": 0,
+  "Defense": 6,
+  "CritChance": 0.02,
+  "CritMultiplier": 3,
+  "MineDropVar": -1,
+  "MineDropMinimumLevel": -1,
+  "Recipe": null
+}

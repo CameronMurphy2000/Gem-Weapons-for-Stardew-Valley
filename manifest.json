@@ -1,0 +1,12 @@
+{
+	"Name": "Geam Weapons by Skadi",
+    "Author": "Skadi",
+    "Version": "1.0.0",
+    "MinimumApiVersion": "3.0.0",
+    "Description": "New gem based weapons for Stardew Valley",
+    "UniqueID": "Skadi.GemWeaponsbySkadi",
+	"UpdateKeys": [],
+    "ContentPackFor": {
+    "UniqueID": "spacechase0.JsonAssets"
+    }
+}
