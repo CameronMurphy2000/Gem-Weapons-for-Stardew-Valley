@@ -1,0 +1,19 @@
+{
+    "Name": "Emerald Sword",
+    "Description": "A verdant sword made from emerald, it is relatively light making it easy to maneuver with.",
+    "Type": "Sword",
+    "PurchasePrice": 8000,
+    "PurchaseFrom": "Marlon",
+    "CanPurchase": true,
+    "MinimumDamage": 35,
+    "MaximumDamage": 50,
+    "Knockback": 1,
+    "Speed": 5,
+    "Accuracy": 0,
+    "Defense": 0,
+    "CritChance": 0.02,
+    "CritMultiplier": 3,
+    "MineDropVar": -1,
+    "MineDropMinimumLevel": -1,
+    "Recipe": null
+  }
