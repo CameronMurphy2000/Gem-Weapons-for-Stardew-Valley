@@ -2,7 +2,7 @@
     "Name": "Ruby Sword",
     "Description": "Placeholder text.",
     "Type": "Sword",
-    "PurchasePrice": 40000,
+    "PurchasePrice": 35750,
     "PurchaseFrom": "Marlon",
     "CanPurchase": true,
     "MinimumDamage": 52,

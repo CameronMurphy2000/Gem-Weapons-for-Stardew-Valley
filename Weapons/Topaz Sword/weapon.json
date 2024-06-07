@@ -2,7 +2,7 @@
     "Name": "Topaz Sword",
     "Description": "Placeholder text.",
     "Type": "Sword",
-    "PurchasePrice": 850,
+    "PurchasePrice": 2000,
     "PurchaseFrom": "Marlon",
     "CanPurchase": true,
     "MinimumDamage": 4,

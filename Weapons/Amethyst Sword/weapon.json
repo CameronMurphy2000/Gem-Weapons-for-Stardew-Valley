@@ -2,7 +2,7 @@
     "Name": "Amethyst Sword",
     "Description": "A sword made from pure amethyst, apparently it has a good chance to deal extra damage.",
     "Type": "Sword",
-    "PurchasePrice": 2500,
+    "PurchasePrice": 8500,
     "PurchaseFrom": "Marlon",
     "CanPurchase": true,
     "MinimumDamage": 14,
@@ -12,7 +12,7 @@
     "Accuracy": 0,
     "Defense": 0,
     "CritChance": 0.15,
-    "CritMultiplier": 3,
+    "CritMultiplier": 3.05,
     "MineDropVar": -1,
     "MineDropMinimumLevel": -1,
     "Recipe": null
