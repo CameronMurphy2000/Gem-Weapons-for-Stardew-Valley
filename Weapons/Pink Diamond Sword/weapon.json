@@ -1,0 +1,19 @@
+{
+    "Name": "Pink Diamond Sword",
+    "Description": "A sword made from the rare Pink Diamond, swinging it releases massive power on impact.",
+    "Type": "Sword",
+    "PurchasePrice": 120000,
+    "PurchaseFrom": "Marlon",
+    "CanPurchase": true,
+    "MinimumDamage": 162,
+    "MaximumDamage": 180,
+    "Knockback": 2,
+    "Speed": -20,
+    "Accuracy": 0,
+    "Defense": 0,
+    "CritChance": 0.01,
+    "CritMultiplier": 2,
+    "MineDropVar": -1,
+    "MineDropMinimumLevel": -1,
+    "Recipe": null
+  }

@@ -1,6 +1,6 @@
 {
   "Name": "Diamond Sword",
-  "Description": "A sword cut from a huge diamond, it provides protection while dealing massive damage due to how hard it is.",
+  "Description": "A sword cut from a huge diamond, it provides protection while dealing massive damage due it's hardness.",
   "Type": "Sword",
   "PurchasePrice": 75000,
   "PurchaseFrom": "Marlon",
